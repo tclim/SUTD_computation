@@ -1,0 +1,5 @@
+C:\Users\Takahashilim\source\repos\SimplePhysics\SimplePhysics\bin\Release\SimplePhysics.dll
+C:\Users\Takahashilim\source\repos\SimplePhysics\SimplePhysics\bin\Release\SimplePhysics.pdb
+C:\Users\Takahashilim\source\repos\SimplePhysics\SimplePhysics\obj\Release\SimplePhysics.csproj.CoreCompileInputs.cache
+C:\Users\Takahashilim\source\repos\SimplePhysics\SimplePhysics\obj\Release\SimplePhysics.dll
+C:\Users\Takahashilim\source\repos\SimplePhysics\SimplePhysics\obj\Release\SimplePhysics.pdb
