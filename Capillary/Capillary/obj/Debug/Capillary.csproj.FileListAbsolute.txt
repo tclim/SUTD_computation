@@ -1,0 +1,6 @@
+C:\Users\wande\Source\Repos\MyFirstProject\Capillary\Capillary\obj\Debug\Capillary.csproj.CoreCompileInputs.cache
+C:\Users\wande\Source\Repos\MyFirstProject\Capillary\Capillary\bin\Capillary.dll
+C:\Users\wande\Source\Repos\MyFirstProject\Capillary\Capillary\bin\Capillary.pdb
+C:\Users\wande\Source\Repos\MyFirstProject\Capillary\Capillary\obj\Debug\Capillary.dll
+C:\Users\wande\Source\Repos\MyFirstProject\Capillary\Capillary\obj\Debug\Capillary.pdb
+C:\Users\wande\Source\Repos\MyFirstProject\Capillary\Capillary\obj\Debug\Capillary.csprojAssemblyReference.cache
